@@ -1,0 +1,24 @@
+{
+  "name": "com.mronetwo.uitoolkit-extensions",
+  "version": "1.0.0",
+  "displayName": "UI Toolkit Extensions",
+  "description": "A collection of useful extensions for working with Unity's UI Toolkit.",
+  "unity": "2021.1",
+  "author": {
+    "name": "Stanislav Kaygorodov",
+    "email": "stasmen@mail.ru",
+    "url": ""
+  },
+  "dependencies": {
+    "com.unity.addressables": "1.19.19",
+    "com.unity.nuget.newtonsoft-json": "3.0.2"
+  },
+  "keywords": [
+    "unity",
+    "ui",
+    "uitoolkit",
+    "extensions",
+    "tools"
+  ],
+  "type": "library"
+}
