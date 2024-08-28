@@ -10,8 +10,8 @@
     "url": ""
   },
   "dependencies": {
-    "com.unity.addressables": "1.19.19",
-    "com.unity.nuget.newtonsoft-json": "3.0.2"
+    "com.unity.modules.uielements": "1.0.0",
+    "com.cysharp.unitask": "2.3.3"
   },
   "keywords": [
     "unity",
