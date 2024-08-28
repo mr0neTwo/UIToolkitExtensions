@@ -14,4 +14,4 @@ This Unity package provides a set of extensions for working with Unity's UI Tool
 You can install this package via the Unity Package Manager by adding the following URL to your project:
 
 ```plaintext
-https://github.com/mronetwo/uitoolkit-extensions.git
+https://github.com/mr0neTwo/UIToolkitExtensions.git
